@@ -7,4 +7,9 @@ git config --global user.email "martins160@gmail.com"
 ### Iniciando o projeto novo
 
 git init
+
+### Adicionando o projeto
 git add .
+
+### Comitando os projetos
+git commit -m "Início do projeto"
