@@ -32,7 +32,7 @@ git clone https://github.com/martins160/curso-git.git .
 
 git log
 
-### voltando o status inicial do arquivo
+### voltando o status inicial do arquivo antes do PUSH
 
 git checkout Comando.txt
 
