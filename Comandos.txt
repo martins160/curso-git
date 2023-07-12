@@ -36,3 +36,6 @@ git log
 
 git checkout Comando.txt
 
+### Adicionando o gitignore
+
+crio um arquivo com o nome .gitignore
