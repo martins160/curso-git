@@ -21,3 +21,5 @@ git commit -m "Início do projeto"
 git push
 
 ### Recebendo alterações do repositório
+
+git pull
