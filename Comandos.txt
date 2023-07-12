@@ -23,3 +23,7 @@ git push
 ### Recebendo alterações do repositório
 
 git pull
+
+### Clonando o repositório
+
+git clone https://github.com/martins160/curso-git.git .
