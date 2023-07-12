@@ -39,3 +39,7 @@ git checkout Comando.txt
 ### Adicionando o gitignore
 
 crio um arquivo com o nome .gitignore
+
+### Resetar para o último commit realizado no repositório
+
+git reset --hard origin/main
