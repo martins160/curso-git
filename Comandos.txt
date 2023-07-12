@@ -15,3 +15,7 @@ git add .
 ### Comitando os projetos
 
 git commit -m "Início do projeto"
+
+### Enviado tudo
+
+git push
