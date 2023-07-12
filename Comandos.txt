@@ -16,6 +16,8 @@ git add .
 
 git commit -m "Início do projeto"
 
-### Enviado tudo
+### Enviado alterações para o repositório
 
 git push
+
+### Recebendo alterações do repositório
