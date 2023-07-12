@@ -1,0 +1,10 @@
+### Assim que instala o Git use os seguintes comandos
+
+git config --global user.name "martins16"
+git config --global user.email "martins160@gmail.com"
+
+
+### Iniciando o projeto novo
+
+git init
+git add .
