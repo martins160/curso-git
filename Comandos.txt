@@ -27,3 +27,7 @@ git pull
 ### Clonando o repositório
 
 git clone https://github.com/martins160/curso-git.git .
+
+### Log do git
+
+git log
